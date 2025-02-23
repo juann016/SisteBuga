@@ -136,5 +136,39 @@ footer p{
 
 
 
+/*=========================TAMAÑO DE PANNTALLAS================================*/
+
+
+
+
+
+
+/*=========================PANTAÑA EXTRA PEQUEÑA ============================*/
+
+
+@media (max-width: 576px){
+    #ser { 
+        width:100% ! important;  }
+    }
+        
+
+/*=========================MEDIA================================*/
+
+
+    @media (max-width: 768px){
+        #ser { 
+            width: 90% ! important; margin: auto; }
+        }
+            
+/*=========================PANTAÑA ANCHA ================================*/
+
+
+        @media (max-width: 1200px){
+            #ser { 
+                width: 90% ! important; margin: auto; }
+            }
+                
+
+
 
 
