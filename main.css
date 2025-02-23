@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif; overflow-x: hidden;
+}
+
+/*==============MENU================*/
+
+#menu li > a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3f3f3f;
+}
+#menu form > button {
+     font-size: 18px;
+    font-weight: bold;
+}
+
+/*==============CARRUSEL================*/
+
+.carousel-inner{ 
+    max-height: 39rem;
+}
+
+/*==============inicio================*/
+#titulo1{
+    color: rgba(63, 63, 211, 0.849);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.intro {
+    color:rgba(63, 63, 211, 0.849);;
+    font-family:Georgia, 'Times New Roman', Times, seri 
+}
+
+
+#titulo2{
+    
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+/*==============================*/
+
+
+#ser {
+    margin: 0px 800px 0px 800px;
+}
+
+
+
+
+
+
+
+/*==============servicios================*/
+#servicios {
+    color:rgba(63, 63, 211, 0.849);;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+
+}
+#PREVENTIVOS {
+    text-align: end;
+    text-align: center;
+
+}
+
+#computador1 { 
+    color:rgba(63, 63, 211, 0.849);;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+/*==============servicio a domicilio================*/
+#domi { 
+    color:rgba(63, 63, 211, 0.849);;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+#Domi  { 
+    
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+
+
+/*==============FORMULARIO================*/
+#formulario {
+    form {
+        width: 50%;
+        margin: 40px auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      
+      label {
+        display: block;
+        margin-bottom: 10px;
+      }
+      
+      input, textarea {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+      }
+      
+      input[type="submit"] {
+        background-color:rgba(63, 63, 211, 0.849);;;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+      }
+      
+      input[type="submit"]:hover {
+        background-color: rgba(63, 63, 211, 0.849);;;
+      }
+}
+
+
+/*=========================REDES SOCIALES================================*/
+
+footer {
+    background: #1b2a4e;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {    
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
+
+
+
+
+
